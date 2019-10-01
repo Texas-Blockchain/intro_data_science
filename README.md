@@ -1,2 +1,2 @@
 # intro_data_science
-Simple machine learning algorithm to predict the Bitcoin price
+Simple machine learning to predict the Bitcoin price
