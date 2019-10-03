@@ -40,11 +40,14 @@ Y / Output / Dependent / Response variable:
 
 ## 3a) Create datasets for variables
 X predictor matrix and Y response vector
+
 Split datasets into train and test data
 
 ## 3b) Fit model
 Use train data to fit a statistical model
+
 Use test data to make predictions
+
 Show results
 
 
