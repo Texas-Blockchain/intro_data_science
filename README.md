@@ -65,5 +65,6 @@ Data transformation:
 
 Scatterplots:
 * Predictions vs. Real Values
-* Each Input vs. Output
 * Residuals vs. Predictions (should be uncorrelated)
+* Each Input vs. Output
+
