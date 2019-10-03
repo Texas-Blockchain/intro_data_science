@@ -35,7 +35,7 @@ X / Input / Independent / Predictor variables:
 * Google Trends
 
 Y / Output / Dependent / Response variable:
-Bitcoin price
+* Bitcoin price
 
 
 ## 3a) Create datasets for variables
