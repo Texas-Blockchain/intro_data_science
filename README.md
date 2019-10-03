@@ -15,6 +15,7 @@ Let's find out!
 
 pandas : your data science go-to
 build datasets incredibly easily
+
 sklearn : for machine learning
 train and test statistical models
 
@@ -36,17 +37,18 @@ X / Input / Independent / Predictor variables:
 Y / Output / Dependent / Response variable:
 Bitcoin price
 
-# 3a) Create datasets for variables
+
+## 3a) Create datasets for variables
 X predictor matrix and Y response vector
 Split datasets into train and test data
 
-# 3b) Fit model
+## 3b) Fit model
 Use train data to fit a statistical model
 Use test data to make predictions
 Show results
 
 
-# 3c) Optimize
+## 3c) Optimize
 Feature selection:
 Check the significance of your inputs
 Consider under/overfitting
@@ -56,7 +58,7 @@ Normalize your inputs
 Try log()
 
 
-# 4) Visualize Data
+## 4) Visualize Data
 
 Scatterplots:
 Predictions vs. Real Values
