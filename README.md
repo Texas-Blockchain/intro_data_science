@@ -13,14 +13,11 @@ Let's find out!
 
 ## 1) Import packages
 
-pandas : your data science go-to
-*build datasets incredibly easily*
+*pandas* : your data science go-to, build datasets easily
 
-matplotlib : for charts
-*visualize your data*
+*matplotlib* : for charts, visualize your data
 
-sklearn : for machine learning
-*train and test statistical models*
+sklearn : for machine learning, train and test statistical models
 
 
 ## 2) Clean data
