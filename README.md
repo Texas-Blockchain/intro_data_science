@@ -50,17 +50,17 @@ Show results
 
 ## 3c) Optimize
 Feature selection:
-Check the significance of your inputs
-Consider under/overfitting
+* Check the significance of your inputs
+* Consider under/overfitting
 
 Data transformation:
-Normalize your inputs
-Try log()
+* Normalize your inputs
+* Try log()
 
 
 ## 4) Visualize Data
 
 Scatterplots:
-Predictions vs. Real Values
-Each Input vs. Output
-Residuals vs. Predictions (should be uncorrelated)
+* Predictions vs. Real Values
+* Each Input vs. Output
+* Residuals vs. Predictions (should be uncorrelated)
