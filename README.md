@@ -17,7 +17,7 @@ Let's find out!
 
 *matplotlib* : for charts, visualize your data
 
-sklearn : for machine learning, train and test statistical models
+*sklearn* : for machine learning, train and test statistical models
 
 
 ## 2) Clean data
