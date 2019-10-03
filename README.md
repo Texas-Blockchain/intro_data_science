@@ -14,10 +14,13 @@ Let's find out!
 ## 1) Import packages
 
 pandas : your data science go-to
-build datasets incredibly easily
+*build datasets incredibly easily*
+
+matplotlib : for charts
+*visualize your data*
 
 sklearn : for machine learning
-train and test statistical models
+*train and test statistical models*
 
 
 ## 2) Clean data
@@ -65,5 +68,6 @@ Data transformation:
 
 Scatterplots:
 * Predictions vs. Real Values
-* Each Input vs. Output
 * Residuals vs. Predictions (should be uncorrelated)
+* Each Input vs. Output
+
