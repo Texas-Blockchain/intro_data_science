@@ -22,7 +22,7 @@ train and test statistical models
 
 ## 2) Clean data
 
-Tweak the data for analysis
+Tweak your data for analysis
 
 
 ## 3) Build model
