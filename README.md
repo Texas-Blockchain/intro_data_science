@@ -11,7 +11,7 @@ Let's find out!
 
 
 
-# 1) Import packages
+## 1) Import packages
 
 pandas : your data science go-to
 build datasets incredibly easily
@@ -19,21 +19,21 @@ sklearn : for machine learning
 train and test statistical models
 
 
-# 2) Clean data
+## 2) Clean data
 
 Tweak the data for analysis
 
 
-# 3) Build model
+## 3) Build model
 
 Quantify the relationship between variables
 
-# X / Input / Independent / Predictor variables:
-Trading volume
-Tether issuance
-Google Trends
+X / Input / Independent / Predictor variables:
+* Trading volume
+* Tether issuance
+* Google Trends
 
-# Y / Output / Dependent / Response variable:
+Y / Output / Dependent / Response variable:
 Bitcoin price
 
 # 3a) Create datasets for variables
